@@ -1,4 +1,6 @@
-# Pirma užduotis (v1.5)
+# Trečioji užduotis (v3.0)
+
+
 1. Šioje programoje naudojami duomenys susije su studentais - _vardas, pavarde, pažymiai, egzamino įvertinimas_
 2. Vartotojas turi keturias parinktis darbui su duomenimis:
  	- Duomenų įvedimas ranka
@@ -6,6 +8,9 @@
   	- Duomenų nuskaitymas iš failo
   	- Failų su duomenimis generavimas
 3. Duomenų išvedimo į ekraną metu bus rodomi studento vardas, **pavardė bei galutinis rezultatas**, _jei vartotojas pasirenka duomenų įvedimą ranka turėtų būt papildomai nurodoma pagal kokius kriterijus išvesti duomenis (**vidurkis** arba **mediana**)_
+# Paleidimo instrukcijos
+
+Atsisiųskite setup aplanką ir paleiskite setup.msi failiuką :)
 
 ## Programos veikimo analizė
 Programos veikimas buvo analizuojamas penkiais skirtingais failų dydžiais (failo pavadinime nurodytas studentų skaičius faile).<br>
